@@ -1,1 +1,3 @@
-# This repository is for some undergraduate work at PolyU
+# Readme.md
+
+This repository is for some undergraduate work at PolyU.
